@@ -4,7 +4,7 @@ A single page web app that helps users to online shop and compare products from 
 
 ## Final Product
 
-![https://github.com/licorm/Product-Comparison/blob/main/docs/Compare.gif?raw=true](comparison gif)
+![comparison gif](https://github.com/licorm/Product-Comparison/blob/main/docs/Compare.gif?raw=true)
 
 ## Getting started
 
